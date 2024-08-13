@@ -1,0 +1,7 @@
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\bin\Debug\FreeCOdcampcourse.exe.config
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\bin\Debug\FreeCOdcampcourse.exe
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\bin\Debug\FreeCOdcampcourse.pdb
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\obj\Debug\FreeCOdcampcourse.csproj.AssemblyReference.cache
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\obj\Debug\FreeCOdcampcourse.csproj.CoreCompileInputs.cache
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\obj\Debug\FreeCOdcampcourse.exe
+D:\C#\FreeCodeCamp\FreeCOdcampcourse\obj\Debug\FreeCOdcampcourse.pdb
